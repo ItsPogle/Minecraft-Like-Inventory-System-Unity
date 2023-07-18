@@ -1,4 +1,4 @@
-# Minecraft-Like-Inventory-System-Unity
+# Minecraft Like Inventory System Unity
 An easy and versatile inventory system that's similiar to Minecraft's very own.<br>
 
 #Credit for Art:<br>
